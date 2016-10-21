@@ -1,5 +1,5 @@
 set _NT_SYMBOL_PATH=srv*c:\Symbols*http://msdl.microsoft.com/download/symbols
-set _NT_SYMCACHE_PATH=c:\Symbols
+set _NT_SYMCACHE_PATH=c:\SymCache
 
 @echo off
 
