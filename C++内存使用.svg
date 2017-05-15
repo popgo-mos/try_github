@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 C++内存使用.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.62932in" height="3.55948in"
+		viewBox="0 0 333.311 256.282" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:宋体;font-size:0.666664em}
+		.st3 {marker-end:url(#mrkr4-21);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.08695652173913}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-21" class="st4" v:arrowType="4" v:arrowSize="2" v:setback="23" refX="-23" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-11.5,-11.5) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.12,-223.811)">
+			<title>函数/子例程</title>
+			<desc>C++程序</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="166.535" cy="240.106" width="333.08" height="32.3519"/>
+			<rect x="0" y="223.931" width="333.071" height="32.3519" class="st1"/>
+			<text x="152.54" y="242.51" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>C++程序</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(254.529,-170.199)">
+			<title>函数/子例程.2</title>
+			<desc>std::allcator</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="39.3307" cy="240.106" width="78.67" height="32.3519"/>
+			<rect x="0" y="223.931" width="78.6614" height="32.3519" class="st1"/>
+			<text x="13.33" y="242.51" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>std::allcator</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(185.789,-113.506)">
+			<title>函数/子例程.3</title>
+			<desc>C++原语(new,delete,operator new)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.7008" cy="238.566" width="147.41" height="35.4331"/>
+			<rect x="0" y="220.849" width="147.402" height="35.4331" class="st1"/>
+			<text x="9.7" y="240.97" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>C++原语(new,delete,operator new)</text>		</g>
+		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(115.632,-56.8129)">
+			<title>函数/子例程.4</title>
+			<desc>CRT(malloc/free)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="108.78" cy="238.566" width="217.56" height="35.4331"/>
+			<rect x="0" y="220.849" width="217.559" height="35.4331" class="st1"/>
+			<text x="76.78" y="240.97" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>CRT(malloc/free)</text>		</g>
+		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(0.12,-0.12)">
+			<title>函数/子例程.5</title>
+			<desc>操作系统API(HeapAlloc,VirtualAlloc)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="166.535" cy="238.566" width="333.08" height="35.4331"/>
+			<rect x="0" y="220.849" width="333.071" height="35.4331" class="st1"/>
+			<text x="96.53" y="240.97" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>操作系统API(HeapAlloc,VirtualAlloc)</text>		</g>
+		<g id="shape8-16" v:mID="8" v:groupContext="shape" transform="translate(549.917,29.9092) rotate(89.4271)">
+			<title>调用</title>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 256.28 L15.74 256.28" class="st3"/>
+		</g>
+		<g id="shape9-22" v:mID="9" v:groupContext="shape" transform="translate(550.141,85.2322) rotate(89.8096)">
+			<title>调用.9</title>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 256.28 L15.81 256.28" class="st3"/>
+		</g>
+		<g id="shape10-27" v:mID="10" v:groupContext="shape" transform="translate(506.203,31.2591) rotate(89.7288)">
+			<title>调用.10</title>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 256.28 L69.35 256.28" class="st3"/>
+		</g>
+		<g id="shape11-32" v:mID="11" v:groupContext="shape" transform="translate(439.946,32.4719) rotate(90)">
+			<title>调用.11</title>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 256.28 L126.04 256.28" class="st3"/>
+		</g>
+		<g id="shape12-37" v:mID="12" v:groupContext="shape" transform="translate(369.08,32.4719) rotate(90)">
+			<title>调用.12</title>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 256.28 L182.74 256.28" class="st3"/>
+		</g>
+		<g id="shape13-42" v:mID="13" v:groupContext="shape" transform="translate(515.767,141.068) rotate(89.618)">
+			<title>调用.13</title>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 256.28 L15.74 256.28" class="st3"/>
+		</g>
+		<g id="shape14-47" v:mID="14" v:groupContext="shape" transform="translate(482.465,199.47) rotate(90)">
+			<title>调用.14</title>
+			<v:userDefs>
+				<v:ud v:nameU="CH" v:val="VT0(5):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 256.28 L15.74 256.28" class="st3"/>
+		</g>
+	</g>
+</svg>
